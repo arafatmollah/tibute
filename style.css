@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Poppins&display=swap');
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 0;
+padding: 0;
+background-color: #EEEEEE;
+}
+h1{
+    max-width: 100%;
+}
+.head{
+    text-align: center;
+}
+.name{
+    color: #333;
+    font-size: 2.5rem;
+}
+.text-para{
+    font-weight: 5px;
+}
+.image{
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+img{
+    margin-left: 10%;
+    max-width: 100%;
+    height: auto;
+}
+ p{
+    text-align: center;
+    font-size: 12pt;
+}
+li{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 15px;
+    max-width: 100%;
+    font-size: 14px;
+    font-weight:lighter;
+    padding: 5px;
+}
+.year{
+    font-weight: bold;
+    font-size: 16px;
+}
+.timeline{
+    text-align: center;
+}
+.quote{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+    padding: 15px;
+}
